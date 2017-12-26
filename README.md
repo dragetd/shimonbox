@@ -21,6 +21,7 @@ Supported boards
 | [NanoPi Neo 2](boards/nanopi_neo2.scad)      | ![NanoPi Neo 2](boards/gif/nanopi_neo2.gif)      |
 | [Orange Pi Zero](boards/orangepi_zero.scad)  | ![Orange Pi Zero](boards/gif/orangepi_zero.gif)  |
 | [Raspberry Pi 3](boards/rpi3.scad)           | ![Raspberry Pi 3](boards/gif/rpi3.gif)           |
+| [Pine64 Rev. B](boards/pine64_b.scad)        | ![Pine64 Rev. B](boards/gif/pine64_b.gif)        |
 
 
 Corresponding cases
@@ -34,6 +35,7 @@ Corresponding cases
 | [NanoPi Neo 2](cases/nanopi_neo2.scad)       | ![NanoPi Neo 2](cases/gif/nanopi_neo2.gif)       | [VERIFIED](pics/nanopi_neo2.jpg):<br />![NanoPi Neo 2](pics/small/nanopi_neo2.jpg)       |
 | [Orange Pi Zero](cases/orangepi_zero.scad)   | ![Orange Pi Zero](cases/gif/orangepi_zero.gif)   | [VERIFIED](pics/orangepi_zero.jpg):<br />![Orange Pi Zero](pics/small/orangepi_zero.jpg) |
 | [Raspberry Pi 3](cases/rpi3.scad)            | ![Raspberry Pi 3](cases/gif/rpi3.gif)            | [VERIFIED](pics/rpi3.jpg):<br />![Raspberry Pi 3](pics/small/rpi3.jpg)                   |
+| [Pine64 Rev. B](cases/pine64_b.scad)         | ![Pine64 Rev. B](cases/gif/pine64_b.gif)         | [VERIFIED](pics/pine64_b.jpg):<br />![Pine64 Rev. B](pics/small/pine64_b.jpg)            |
 
 
 Usage

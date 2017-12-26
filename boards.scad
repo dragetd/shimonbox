@@ -22,6 +22,7 @@ use <boards/hikey.scad>
 use <boards/nanopi_neo2.scad>
 use <boards/orangepi_zero.scad>
 use <boards/rpi3.scad>
+use <boards/pine64_b.scad>
 
 boards = [
     ["bbb",             beaglebone_black_info()],
@@ -30,6 +31,7 @@ boards = [
     ["nanopi_neo2",     nanopi_neo2_info()],
     ["orangepi_zero",   orangepi_zero_info()],
     ["rpi3",            raspberry_pi_3_info()],
+    ["pine64_b",        pine64_b_info()],
 ];
 
 module boards_get_plate_2d(id) {
@@ -40,6 +42,7 @@ module boards_get_plate_2d(id) {
         nanopi_neo2_plate_2d();
         orangepi_zero_plate_2d();
         raspberry_pi_3_plate_2d();
+        pine64_b_plate_2d();
     }
 }
 
@@ -51,6 +54,7 @@ module boards_get_board(id) {
         nanopi_neo2();
         orangepi_zero();
         raspberry_pi_3();
+        pine64_b();
     }
 }
 
